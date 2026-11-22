@@ -1,7 +1,7 @@
 # Hi there, I'm Matheus Pietro Klein 👋
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Advanced C++, Python, HTML, and CSS**
+- 🌱 I’m currently learning **Advanced C++, JavaScript and PHP**
 - 💬 Ask me about **C, C++, Python, Pascal, HTML, and CSS**
 - 🤝 I’m open to collaborating on **open-source projects**
 
