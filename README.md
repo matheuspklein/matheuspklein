@@ -23,6 +23,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+#### Technology Usage
+| Technology | Typical use |
+| --- | --- |
+| C | Low-level programming and foundational programming concepts |
+| C++ | Advanced programming and performance-oriented applications |
+| Python | Scripting, automation, and general-purpose programming |
+| Pascal | Learning and practicing programming fundamentals |
+| HTML5 | Structuring web pages |
+| CSS3 | Styling and laying out web pages |
+| Git | Version control and collaboration on projects |
+| VS Code | Writing and editing code |
+
 ---
 
 ### 📬 Connect with Me
